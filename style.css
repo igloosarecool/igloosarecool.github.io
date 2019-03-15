@@ -1,7 +1,7 @@
-@font-face { 
-	font-family: 'Social Foundicons'; 
+@font-face {
+	font-family: 'Social Foundicons';
 	src: url('http://dl.dropbox.com/u/54388277/cdn/bartdebunnebe/social_foundicons.woff') format('woff');
-} 
+}
 
 * {
 	padding: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 section {
-	background: url('http://dl.dropbox.com/u/54388277/cdn/bartdebunnebe/bgk.jpg') no-repeat center center fixed;
+	background: url('/assets/bgk.jpg') no-repeat center center fixed;
 	background-size: cover;
 	height:100%;
 	width: 100%;

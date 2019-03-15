@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Social Foundicons';
-	src: url('http://dl.dropbox.com/u/54388277/cdn/bartdebunnebe/social_foundicons.woff') format('woff');
+	src: url('/assets/social_foundicons.woff') format('woff');
 }
 
 * {
